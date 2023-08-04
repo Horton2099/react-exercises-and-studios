@@ -1,3 +1,9 @@
 export default function ChoresList () {
-   return <p>No content is here!</p>;
+   return <p>
+      <ul>
+         <li>Sweep</li>
+         <li>mop</li>
+         <li>mow lawn</li>
+      </ul>
+   </p>;
 }

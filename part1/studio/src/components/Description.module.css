@@ -1,0 +1,9 @@
+.recipeAuthorBlock {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    }
+    
+    .imageUpdates {
+       object-fit: contain;
+    }
