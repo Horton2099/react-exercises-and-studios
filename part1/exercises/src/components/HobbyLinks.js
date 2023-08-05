@@ -3,6 +3,7 @@ function HobbyLinks() {
     return(
     <>
     <a href = {hobbyLinksArr[0]}>Climbing Articles</a>
+    <br/>
     <a href = {hobbyLinksArr[1]}>Find a Climb</a>
     </>
     )
