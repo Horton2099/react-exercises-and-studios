@@ -3,6 +3,7 @@
    font-size: large;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
@@ -11,3 +12,4 @@
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    text-decoration: underline;
 }
+

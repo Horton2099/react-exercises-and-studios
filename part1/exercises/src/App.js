@@ -5,12 +5,16 @@ import ChoresList from './components/ChoresList.js';
 import BookList from './components/BookList.js';
 import HobbyLinks from './components/HobbyLinks.js';
 
+
 function App() {
   return (
-    <div className="App">
-      <MovieList />
+    <div className = "App">
       <ChoresList />
-      <BookList />
+      <div className = "similarComponents">
+       <MovieList />
+      <BookList /> 
+      </div>
+      
       <HobbyLinks />
     </div>
   );
