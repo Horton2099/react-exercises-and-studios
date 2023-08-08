@@ -1,3 +1,5 @@
+import "./recipe.json";
+
 let stars = ["⭐", "⭐ ⭐", "⭐ ⭐ ⭐", "⭐ ⭐ ⭐ ⭐", "⭐ ⭐ ⭐ ⭐ ⭐"];
 
 function RateARecipe(props) {

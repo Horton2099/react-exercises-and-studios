@@ -1,4 +1,5 @@
 import "./styling.css";
+import "./recipe.json";
 // TO DO's
 function SaveButton() {
   function handleClick() {

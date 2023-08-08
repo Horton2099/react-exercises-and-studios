@@ -1,5 +1,10 @@
+import "./recipe.json";
+
 function ClickedButton() {
-  return;
+  function handleClick() {
+    alert("Pin is removed from the board!");
+  }  
+  return <button id="clickedButton" className="clickedButton" onClick={handleClick}>Saved</button>;
 }
 
 export default ClickedButton;
