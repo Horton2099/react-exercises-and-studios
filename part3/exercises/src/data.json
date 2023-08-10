@@ -1,0 +1,28 @@
+[
+    {
+        "name": "5.10 Arrowheads",
+        "description": "My first style of climbing shoes",
+        "img": "https://www.tradeinn.com/f/13622/136226018/five-ten-5.10-arrowhead-climbing-shoes.jpg",
+    },
+    {
+        "name": "5.10 Team",
+        "description": "First pair of aggressive style shoes.",
+        "img": "https://i.ebayimg.com/images/g/1xEAAOSwGqxbB5nq/s-l1200.webp",
+    },
+    {
+        "name": "5.10 Anasazi",
+        "description": "Third pair of shoes. Great all round.",
+        "img": "https://i.ebayimg.com/images/g/RtUAAOSwfOxitNEv/s-l1200.jpg"
+
+    },
+    {
+        "name": "Scarpa Instict",
+        "description": "Second pair of aggressive shoes. First branch into new brand",
+        "img": "https://www.hdosport.com/cdn/shop/products/41ZwIM_V6tL_500x.jpg?v=1622997284"
+    },
+    {
+        "name": "La Sportiva Futura",
+        "description": "Third pair of aggressive shoes. They are waiting on shelf till I burn through rubber of the Scarpa Insticts",
+        "img": "https://www.lasportiva.com/media/catalog/product/2/0/20R_600100_02.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    }
+]
