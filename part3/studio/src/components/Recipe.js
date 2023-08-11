@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://damndelicious.net/about-me/";
+   let authorPhoto = "https://s23209.pcdn.co/wp-content/uploads/2018/06/about.jpg";
+   let authorName = "Chungah Rhee";
 
    return (
       <div>
@@ -15,7 +15,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["Skirt Steak", "corn tortilla", "red onion", "lime", "cilantro"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -34,8 +34,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>Mexican Street Tacos</h1>
+            <p>It’s a quick recipe using a simple marinade for your skirt steak. It just needs 1 hour of marinating before you throw it onto a skillet. From there, you can top off your tacos with diced onion, cilantro and fresh lime juice.</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://s23209.pcdn.co/wp-content/uploads/2019/04/Mexican-Street-TacosIMG_9091.jpg" alt="Street Tacos" className="imageUpdates"/>
    );
 }
 
